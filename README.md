@@ -1,5 +1,7 @@
 # COSC320 Project Information
 
+[Link to the final report video.](https://www.youtube.com/watch?v=xu-JvlVBUzA&ab_channel=YatharthMathur)
+
 This is a Keyword replacement project focused on algorithm analysis and implementation for COSC320.
 
 ### Members: 
